@@ -1,3 +1,3 @@
 {
-  "gitignore_content": "# Python cache\n__pycache__/\n*.pyc\n\n# Virtual Environment\nvenv/\n.venv/\n\n# Build artifacts\ndist/"
+  "gitignore_content": "# Python cache\n__pycache__/\n*.pyc\n\n# Virtual Environment\nvenv/\n.venv/\n\n# Build artifacts\ndist/\nbuild/\n*.egg-info/\n\n# Environment variables\n.env"
 }
