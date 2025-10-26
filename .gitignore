@@ -19,6 +19,7 @@ build/
 
 # Environment variables
 .env
+.env.*
 
 # Test & coverage reports
 .pytest_cache/
@@ -36,4 +37,8 @@ htmlcov/
 
 # Databases
 *.sqlite3
+*.sqlite3-journal
+
+# OS-generated files
+.DS_Store
 ```
