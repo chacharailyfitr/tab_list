@@ -15,6 +15,7 @@ env/
 dist/
 build/
 *.egg-info/
+*.so
 
 # Environment variables
 .env
@@ -32,4 +33,7 @@ htmlcov/
 
 # Log files
 *.log
+
+# Databases
+*.sqlite3
 ```
