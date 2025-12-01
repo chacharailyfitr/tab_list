@@ -17,6 +17,7 @@ build/
 *.egg-info/
 .eggs/
 *.so
+*.pyd
 
 # Environment variables
 .env
@@ -45,4 +46,5 @@ docs/_build/
 
 # OS-generated files
 .DS_Store
+Thumbs.db
 ```
