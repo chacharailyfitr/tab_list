@@ -15,6 +15,7 @@ env/
 dist/
 build/
 *.egg-info/
+.eggs/
 *.so
 
 # Environment variables
@@ -26,6 +27,9 @@ build/
 .coverage
 htmlcov/
 .tox/
+
+# Documentation
+docs/_build/
 
 # IDE-specific files
 .idea/
